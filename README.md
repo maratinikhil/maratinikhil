@@ -101,7 +101,7 @@
 <h3 align="center">☕ Java Developer | Spring Boot | Microservices | REST APIs</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F89820&center=true&vCenter=true&width=500&lines=Java+Developer+%7C+1.6%2B+Years+Experience;Spring+Boot+%7C+Microservices+%7C+REST+APIs;Hibernate+%7C+JPA+%7C+MySQL+%7C+PostgreSQL;Building+Scalable+%26+Secure+Backend+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F89820&center=true&vCenter=true&width=500&lines=Java+Developer;Spring+Boot+%7C+Microservices+%7C+REST+APIs;Hibernate+%7C+JPA+%7C+MySQL+%7C+PostgreSQL;Building+Scalable+%26+Secure+Backend+Systems" alt="Typing SVG" />
 </p>
 
 ---
@@ -109,9 +109,9 @@
 ## 👨‍💻 About Me
 
 - 🔭 Currently working as a **Java Developer** at **Naaima Embedded Technology**
-- 🌱 Hands-on experience with **Spring Boot, Microservices, and REST APIs**
+- 🌱 Hands-on experience with **Sprning Boot, Microservices, and REST APIs**
 - ⚙️ Building scalable backend systems with **Hibernate, JPA, and MySQL/PostgreSQL**
-- 🧪 Writing unit and integration tests using **JUnit 5** and **Mockito**
+- 🧪 Writing unit and integratio tests using **JUnit 5** and **Mockito**
 - 🐳 Familiar with containerizing Java apps using **Docker** and deploying to **AWS**
 - 🔐 Integrating security using **Spring Security & JWT**
 - 📋 Managing DevOps workflows and sprint planning via **Jira**
