@@ -97,7 +97,7 @@
 
 <p align="center">⭐ <i>"Automate everything, monitor always, deploy with confidence."</i> ⭐</p> -->
 
-<h1 align="center">Hi 👋, I'm Marati Nikhil</h1>
+<!-- <h1 align="center">Hi 👋, I'm Marati Nikhil</h1>
 <h3 align="center">☕ Java Developer | Spring Boot | Microservices | REST APIs</h3>
 
 <p align="center">
@@ -204,4 +204,4 @@
   <img src="https://komarev.com/ghpvc/?username=maratinikhil&label=Profile%20views&color=F89820&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">⭐ <i>"Write clean code, build robust systems, ship with confidence."</i> ⭐</p>
+<p align="center">⭐ <i>"Write clean code, build robust systems, ship with confidence."</i> ⭐</p> -->
