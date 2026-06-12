@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm Marati Nikhil</h1>
+<h1 align="center">Hi 👋, I'm Marati Nikhil</h1>
 <h3 align="center">🚀 DevOps Engineer | AWS | Docker | CI/CD | Terraform</h3>
 
 <p align="center">
@@ -95,9 +95,9 @@
   <img src="https://komarev.com/ghpvc/?username=maratinikhil&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">⭐ <i>"Automate everything, monitor always, deploy with confidence."</i> ⭐</p> -->
+<p align="center">⭐ <i>"Automate everything, monitor always, deploy with confidence."</i> ⭐</p>
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Marati%20Nikhil&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20Engineer%20%7C%20Cloud%20%7C%20Containers%20%7C%20Automation&descAlignY=55&descSize=16" />
 
@@ -263,4 +263,4 @@ contact: marati.nikhil9@gmail.com
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-</div>
+</div> -->
