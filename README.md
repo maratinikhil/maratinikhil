@@ -2,7 +2,7 @@
 <h3 align="center">🚀 DevOps Engineer | AWS | Docker | CI/CD | Terraform</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=DevOps+Engineer+%7C+1.6%2B+Years+Experience;AWS+Cloud+%7C+Docker+%7C+Terraform;CI%2FCD+Automation+%7C+Jenkins+%7C+Azure+DevOps;Building+Scalable+%26+Secure+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=DevOps+Engineer+%7C+2%2B+Years+Experience;AWS+Cloud+%7C+Docker+%7C+Terraform;CI%2FCD+Automation+%7C+Jenkins+%7C+Azure+DevOps;Building+Scalable+%26+Secure+Systems" alt="Typing SVG" />
 </p>
 
 ---
